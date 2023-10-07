@@ -15,7 +15,7 @@
 | _27.09.23_ | [материалы](https://academy.yandex.ru/handbook/python/article/stroki-kortezhi-spiski) | [zoom](https://drive.google.com/drive/folders/1fPRWZ358WWoMdmAGT2zbCmp3IRfqysFx?usp=sharing) <br>[youtube](https://youtu.be/_8GbAahs2iI) | **программирование** (повторение) | строки, списки, кортежи |
 | _30.09.23_ | [задачи](https://new.contest.yandex.ru/41237) |                  | **программирование** (повторение) | строки, списки, кортежи |
 | _04.10.23_ | [материалы](https://academy.yandex.ru/handbook/algorithms/article/dinamicheskoe-programmirovanie)<br>[задачи](https://new.contest.yandex.ru/48558) | [zoom]() *tbd*<br>[youtube]() *tbd* | **алгоритмы и структуры данных** (введение) | динамическое программирование |
-| _04.10.23_ |  [задачи](https://new.contest.yandex.ru/41237) |                  | **программирование** (повторение) | строки, списки, кортежи |
+| _07.10.23_ |  [задачи](https://new.contest.yandex.ru/41237) |                  | **программирование** (повторение) | строки, списки, кортежи |
 <!---
 | _15.10.22_ | [задачи](/работа_на_уроке_(15.10).pdf) |                  |                  |
 | _17.10.22_ | [тетрадка](https://colab.research.google.com/drive/1qFRMFnfMRNAH-_QHCDmzNXnjlcC5VqMb?usp=sharing) | [zoom](https://drive.google.com/drive/folders/1AqPXuRruMj522rrPpC6TrBIkpa0hPgMY?usp=sharing)<br>[youtube](https://youtu.be/N6Ekqd0yzuI) | списки: `list()`<br>`.append()`, `.extend()`<br>`.reverse()`, `.sort()`, `.join()` |
