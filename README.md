@@ -16,8 +16,8 @@
 | _30.09.23_ | [задачи](https://new.contest.yandex.ru/41237) |                  | **программирование** (повторение) | строки, списки, кортежи |
 | _04.10.23_ | [материалы](https://academy.yandex.ru/handbook/algorithms/article/dinamicheskoe-programmirovanie)<br>[задачи](https://new.contest.yandex.ru/48558) | [zoom](https://drive.google.com/drive/folders/1V1y2ngkabIJ5Zg8Dbr8w_G6Lj2oPJgWU?usp=drive_link)<br>[youtube](https://youtu.be/xP1uksjWbyE) | **алгоритмы и структуры данных** (введение) | динамическое программирование |
 | _07.10.23_ |  [задачи](https://new.contest.yandex.ru/41237) |                  | **программирование** (повторение) | строки, списки, кортежи |
-| _10.10.23_ | [материалы<br>задачи](/системы_счисления.pdf) | [zoom]() *tbd*<br>[youtube]() *tbd* | **информатика** (огэ) | системы счисления:<br>2-ичная, 16-еричнавя, 8-еричная<br>перевод |
-| _10.10.23_ | [материалы](https://academy.yandex.ru/handbook/python/article/mnozhestva-slovari)<br>[задачи](https://new.contest.yandex.ru/41238) | [zoom]() *tbd*<br>[youtube]() *tbd* | **программирование** (повторение) | множества: `set()` и их методы<br>словари: `dict()` и их методы |
+| _10.10.23_ | [материалы<br>задачи](/системы_счисления.pdf) | [zoom]() *tbd*<br>[youtube]() *tbd* | **информатика** (огэ) | системы счисления:<br>2-ичная, 16-еричнавя,<br>8-еричнаяперевод |
+| _10.10.23_ | [материалы](https://academy.yandex.ru/handbook/python/article/mnozhestva-slovari)<br>[задачи](https://new.contest.yandex.ru/41238) | [zoom]() *tbd*<br>[youtube]() *tbd* | **программирование** (повторение) | множества: `set()` и их методы<br>словари: `dict()`<br>и их методы |
 <!---
 | _21.10.22_ | [тетрадка](https://colab.research.google.com/drive/11-7PvHkJI_VB2RUz934_Eyd0FOyw2BNs?usp=sharing) | [zoom](https://drive.google.com/drive/folders/1XeZgDa0vaawbzFNgeotV5GD0wd_6j828?usp=sharing)<br>[youtube](https://youtu.be/wqdCJeNrzwk) | разбор ДЗ1<br>дополнения:<br>`float`, `string`, `list` |
 | _22.10.22_ | [задачи](/работа_на_уроке_(22.10).pdf) |  |  |
