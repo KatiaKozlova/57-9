@@ -19,8 +19,8 @@
 | _11.10.23_ | [материалы<br>задачи](/системы_счисления.pdf) | [zoom]() *tbd*<br>[youtube]() *tbd* | **информатика** (огэ) | системы счисления:<br>2-ичная, 16-еричнавя,<br>8-еричнаяперевод |
 | _11.10.23_ | [материалы](https://academy.yandex.ru/handbook/python/article/mnozhestva-slovari)<br>[задачи](https://new.contest.yandex.ru/41238) | [zoom]() *tbd*<br>[youtube]() *tbd* | **программирование** (повторение) | множества: `set()` и их методы<br>словари: `dict()`<br>и их методы |
 | _14.10.23_ | [задачи](https://new.contest.yandex.ru/41238) |  | **программирование** (повторение) | множества: `set()` и их методы<br>словари: `dict()`<br>и их методы |
+| _25.10.23_ | [задачи](/halloween.pdf) |  |  |  |
 <!---
-| _21.10.22_ | [тетрадка](https://colab.research.google.com/drive/11-7PvHkJI_VB2RUz934_Eyd0FOyw2BNs?usp=sharing) | [zoom](https://drive.google.com/drive/folders/1XeZgDa0vaawbzFNgeotV5GD0wd_6j828?usp=sharing)<br>[youtube](https://youtu.be/wqdCJeNrzwk) | разбор ДЗ1<br>дополнения:<br>`float`, `string`, `list` |
 | _22.10.22_ | [задачи](/работа_на_уроке_(22.10).pdf) |  |  |
 | _24.10.22_ | [задачи](/работа_на_уроке_(22.10).pdf) |  |  |
 | _28.10.22_ | [задачи](/работа_на_уроке_(28.10).pdf)<br>[тетрадка](https://colab.research.google.com/drive/1-1cpWtO5JwPfw81CKIRmn_Jz-mijtOzF?usp=sharing) |  | разбор ДЗ2 |
