@@ -20,8 +20,8 @@
 | _11.10.23_ | [материалы](https://academy.yandex.ru/handbook/python/article/mnozhestva-slovari)<br>[задачи](https://new.contest.yandex.ru/41238) | [zoom]() *tbd*<br>[youtube]() *tbd* | **программирование** (повторение) | множества: `set()` и их методы<br>словари: `dict()`<br>и их методы |
 | _14.10.23_ | [задачи](https://new.contest.yandex.ru/41238) |  | **программирование** (повторение) | множества: `set()` и их методы<br>словари: `dict()`<br>и их методы |
 | _25.10.23_ | [задачи](/halloween.pdf) |  |  |  |
-| _08.11.22_ | [материалы](https://academy.yandex.ru/handbook/python/article/spisochnye-vyrazheniya-model-pamyati-dlya-tipov-yazyka-python)<br>[задачи](https://new.contest.yandex.ru/41239) | [zoom]() *tbd*<br>[youtube]() *tbd* | **программирование** (повторение) | списочные выражения<br>память `sys.getsizeof()`<br>время `timeit.timeit()`<br>методы `copy.deepcopy()` и `copy.copy()` |
-
+| _08.11.22_ | [материалы](https://academy.yandex.ru/handbook/python/article/spisochnye-vyrazheniya-model-pamyati-dlya-tipov-yazyka-python)<br>[задачи](https://new.contest.yandex.ru/41239) |  | **программирование** (повторение) | списочные выражения<br>память `sys.getsizeof()`<br>время `timeit.timeit()`<br>методы `copy.deepcopy()` и `copy.copy()` |
+| _11.11.22_ | [материалы](https://academy.yandex.ru/handbook/python/article/vstroennye-vozmozhnosti-po-rabote-s-kollekciyami)<br>[задачи](https://new.contest.yandex.ru/41240) |  |  |
 <!---
 | _24.10.22_ | [задачи](/работа_на_уроке_(22.10).pdf) |  |  |
 | _28.10.22_ | [задачи](/работа_на_уроке_(28.10).pdf)<br>[тетрадка](https://colab.research.google.com/drive/1-1cpWtO5JwPfw81CKIRmn_Jz-mijtOzF?usp=sharing) |  | разбор ДЗ2 |
