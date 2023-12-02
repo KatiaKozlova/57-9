@@ -26,8 +26,8 @@
 | _22.11.23_ | материалы:<br>[1](https://education.yandex.ru/handbook/python/article/funkcii-oblasti-vidimosti-peredacha-parametrov-v-funkcii), [2](https://education.yandex.ru/handbook/python/article/pozicionnye-i-imenovannye-argumenty-funkcii-vysshih-poryadkov-lyambda-funkcii)<br>задачи: [1](https://new.contest.yandex.ru/41242), [2](https://new.contest.yandex.ru/41243) |  | **программирование** (повторение) |  |
 | _25.11.23_ | материалы:<br>[1](https://education.yandex.ru/handbook/python/article/funkcii-oblasti-vidimosti-peredacha-parametrov-v-funkcii), [2](https://education.yandex.ru/handbook/python/article/pozicionnye-i-imenovannye-argumenty-funkcii-vysshih-poryadkov-lyambda-funkcii)<br>задачи: [1](https://new.contest.yandex.ru/41242), [2](https://new.contest.yandex.ru/41243) |  | **программирование** (повторение) |  |
 | _29.11.23_ | [материалы](https://education.yandex.ru/handbook/python/article/rekursiya-dekoratory-generatory)<br>[задачи](https://new.contest.yandex.ru/41244) |  | **программирование** (повторение) |  |
+| _02.12.23_ | [материалы](https://education.yandex.ru/handbook/algorithms/article/rekursivnye-algoritmy)<br>[задачи](https://new.contest.yandex.ru/48568) |  | **алгоритмы и структуры данных** (введение) |  |
 <!---
-| _24.10.22_ | [задачи](/работа_на_уроке_(22.10).pdf) |  |  |
 | _28.10.22_ | [задачи](/работа_на_уроке_(28.10).pdf)<br>[тетрадка](https://colab.research.google.com/drive/1-1cpWtO5JwPfw81CKIRmn_Jz-mijtOzF?usp=sharing) |  | разбор ДЗ2 |
 | _07.11.22_ | [тетрадка](https://colab.research.google.com/drive/17vRgsEZjBd4vNdf1QBKqfzgWKR-peKI_?usp=sharing) |  | кортежи: `tuple()`<br>множества: `set()`, `frozenset()` |
 | _11.11.22_ | [задачи](/работа_на_уроке_(11.11).pdf) |  |  |
