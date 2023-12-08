@@ -29,7 +29,7 @@
 | _02.12.23_ | [материалы](https://education.yandex.ru/handbook/algorithms/article/rekursivnye-algoritmy)<br>[задачи](https://new.contest.yandex.ru/48568) |  | **алгоритмы и структуры данных** (введение) | рекурсивные алгоритмы: ханойские башни |
 | _06.12.23_ | [материалы](https://education.yandex.ru/handbook/python/article/rekursiya-dekoratory-generatory)<br>[задачи D, E, G](https://new.contest.yandex.ru/41244) |  | **программирование** (повторение) | декораторы |
 | _09.12.23_ | [материалы](https://education.yandex.ru/handbook/python/article/rekursiya-dekoratory-generatory)<br>[задачи H, I](https://new.contest.yandex.ru/41244) |  | **программирование** (повторение) | генераторы |
-| _09.12.23_ | [материалы](https://colab.research.google.com/drive/1pV07of1EHbzQcJqppfYWaaVkPZYgBEus?usp=sharing)<br>задачи: [J](https://new.contest.yandex.ru/41242), [F](https://new.contest.yandex.ru/41244) |  | **алгоритмы и структуры данных** (введение) | генераторы |
+| _09.12.23_ | [материалы](https://colab.research.google.com/drive/1pV07of1EHbzQcJqppfYWaaVkPZYgBEus?usp=sharing)<br>задачи: [J](https://new.contest.yandex.ru/41242), [F](https://new.contest.yandex.ru/41244) |  | **алгоритмы и структуры данных** (введение) | сортировка слиянием |
 <!---
 | _28.10.22_ | [задачи](/работа_на_уроке_(28.10).pdf)<br>[тетрадка](https://colab.research.google.com/drive/1-1cpWtO5JwPfw81CKIRmn_Jz-mijtOzF?usp=sharing) |  | разбор ДЗ2 |
 | _07.11.22_ | [тетрадка](https://colab.research.google.com/drive/17vRgsEZjBd4vNdf1QBKqfzgWKR-peKI_?usp=sharing) |  | кортежи: `tuple()`<br>множества: `set()`, `frozenset()` |
