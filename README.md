@@ -33,6 +33,7 @@
 | _13.12.23_ | [материалы](https://education.yandex.ru/handbook/algorithms/article/razdelyaj-i-vlastvuj)<br>[задачи](https://new.contest.yandex.ru/48569) |  | **алгоритмы и структуры данных** (введение) | алгоритмы «разделяй и властвуй» |
 | _13.12.23_ | [задачи](/эксель.pdf) |  | **информатика** (огэ) |  |
 | _16.12.23_ | варианты:<br>[1](/вариант_1.pdf), [2](/вариант_2.pdf) |  | **информатика** (огэ) |  |
+| _23.12.23_ | [задачи](/new_year.pdf) |  |  |  |
 <!---
 | _28.10.22_ | [задачи](/работа_на_уроке_(28.10).pdf)<br>[тетрадка](https://colab.research.google.com/drive/1-1cpWtO5JwPfw81CKIRmn_Jz-mijtOzF?usp=sharing) |  | разбор ДЗ2 |
 | _07.11.22_ | [тетрадка](https://colab.research.google.com/drive/17vRgsEZjBd4vNdf1QBKqfzgWKR-peKI_?usp=sharing) |  | кортежи: `tuple()`<br>множества: `set()`, `frozenset()` |
