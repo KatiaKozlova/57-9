@@ -40,7 +40,7 @@
 | _20.01.24_ | [материалы](https://education.yandex.ru/handbook/python/article/model-isklyuchenij-python-try-except-else-finally-moduli)<br>[задачи](https://new.contest.yandex.ru/41247) |  | **программирование** | модель исключений:<br>`try`, `except`, `else`, `finally` |
 | _24.01.24_ | [материалы](https://education.yandex.ru/handbook/python/article/model-isklyuchenij-python-try-except-else-finally-moduli)<br>[задачи](https://new.contest.yandex.ru/41247) |  | **программирование** | модель исключений:<br>`try`, `except`, `else`, `finally` |
 | _27.01.24_ | [материалы](https://education.yandex.ru/handbook/algorithms/article/randomizirovannye-algoritmy)<br>[задачи](https://new.contest.yandex.ru/48570) |  | **алгоритмы и структуры данных** (введение) | рандомизированные алгоритмы:<br>быстрая сортировка |
-| _31.01.234_ | задачи:<br>[pdf](/html.pdf), [notion](https://what-katie-did.notion.site/html-6cf1918c5c8f4576973b2ccc8d9ed4bd) |  | **информатика** | html |
+| _31.01.24_ | задачи:<br>[pdf](/html.pdf), [notion](https://what-katie-did.notion.site/html-6cf1918c5c8f4576973b2ccc8d9ed4bd) |  | **информатика** | html |
 <!---
 | _28.10.22_ | [задачи](/работа_на_уроке_(28.10).pdf)<br>[тетрадка](https://colab.research.google.com/drive/1-1cpWtO5JwPfw81CKIRmn_Jz-mijtOzF?usp=sharing) |  | разбор ДЗ2 |
 | _07.11.22_ | [тетрадка](https://colab.research.google.com/drive/17vRgsEZjBd4vNdf1QBKqfzgWKR-peKI_?usp=sharing) |  | кортежи: `tuple()`<br>множества: `set()`, `frozenset()` |
