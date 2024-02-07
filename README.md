@@ -43,7 +43,7 @@
 | _31.01.24_ | задачи:<br>[pdf](/html.pdf), [notion](https://what-katie-did.notion.site/html-6cf1918c5c8f4576973b2ccc8d9ed4bd) |  | **информатика** | html |
 | _31.01.24_ | задачи:<br>[pdf](/html.pdf), [notion](https://what-katie-did.notion.site/html-6cf1918c5c8f4576973b2ccc8d9ed4bd) |  | **информатика** | html |
 | _03.02.24_ | проверочная |  | **программирование** | классы, исключения |
-| _07.02.24_ | [материалы](https://education.yandex.ru/handbook/algorithms/article/zadacha-maksimalnoe-proizvedenie)<br>задачи:<br>[1](https://new.contest.yandex.ru/42492), [2](https://new.contest.yandex.ru/42734) |  | **алгоритмы и структуры данных** (введение) | рандомизированные алгоритмы:<br>быстрая сортировка |
+| _07.02.24_ | [материалы](https://education.yandex.ru/handbook/algorithms/article/zadacha-maksimalnoe-proizvedenie)<br>задачи:<br>[1](https://new.contest.yandex.ru/42492), [2](https://new.contest.yandex.ru/42734) |  | **алгоритмы и структуры данных** (введение) | решение практических задач по программированию |
 <!---
 | _28.10.22_ | [задачи](/работа_на_уроке_(28.10).pdf)<br>[тетрадка](https://colab.research.google.com/drive/1-1cpWtO5JwPfw81CKIRmn_Jz-mijtOzF?usp=sharing) |  | разбор ДЗ2 |
 | _07.11.22_ | [тетрадка](https://colab.research.google.com/drive/17vRgsEZjBd4vNdf1QBKqfzgWKR-peKI_?usp=sharing) |  | кортежи: `tuple()`<br>множества: `set()`, `frozenset()` |
