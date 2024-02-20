@@ -45,6 +45,8 @@
 | _03.02.24_ | проверочная |  | **программирование** | классы, исключения |
 | _07.02.24_ | [материалы](https://education.yandex.ru/handbook/algorithms/article/zadacha-maksimalnoe-proizvedenie)<br>задачи:<br>[1](https://new.contest.yandex.ru/42492), [2](https://new.contest.yandex.ru/42734) |  | **алгоритмы и структуры данных** (введение) | решение практических задач по программированию |
 | _10.02.24_ | [материалы](https://colab.research.google.com/drive/1GdFu6CV_f2qYCwnSCrGXz94fmzbE-YyV?usp=sharing)<br>задачи:<br>[pdf](/beautiful_soup.pdf), [notion](https://what-katie-did.notion.site/beautiful-soup-07030c0d6ca34840bea2a7314bc2893b) |  | **программирование** | beautiful soup |
+| _14.02.24_ | [материалы](https://colab.research.google.com/drive/1GdFu6CV_f2qYCwnSCrGXz94fmzbE-YyV?usp=sharing)<br>задачи:<br>[pdf](/beautiful_soup.pdf), [notion](https://what-katie-did.notion.site/beautiful-soup-07030c0d6ca34840bea2a7314bc2893b) |  | **программирование** | beautiful soup |
+| _17.02.24_ | [вариант](/вариант_3.pdf)<br>[матриалы](https://drive.google.com/drive/folders/1ZrXsvTZeRlvLgiEl-GHVu449Ak4muITd) |  | **информатика** (огэ) |  |
 <!---
 | _28.10.22_ | [задачи](/работа_на_уроке_(28.10).pdf)<br>[тетрадка](https://colab.research.google.com/drive/1-1cpWtO5JwPfw81CKIRmn_Jz-mijtOzF?usp=sharing) |  | разбор ДЗ2 |
 | _07.11.22_ | [тетрадка](https://colab.research.google.com/drive/17vRgsEZjBd4vNdf1QBKqfzgWKR-peKI_?usp=sharing) |  | кортежи: `tuple()`<br>множества: `set()`, `frozenset()` |
