@@ -111,5 +111,9 @@
 -->
 
 ### Полезные ссылки
-* [шпаргалка](/шпаргалка_regexp.png) по регуляркам
+* [шпаргалка](https://github.com/test-57pl/lectures-katia/blob/main/%D1%88%D0%BF%D0%B0%D1%80%D0%B3%D0%B0%D0%BB%D0%BA%D0%B0_regexp.png) по регуляркам
 * [плейлист](https://youtube.com/playlist?list=PLR6kPcnxXu4DHHhdqvb41ZAF2niyGUh_t) на youtube со всеми видео
+* памятки огэ:
+  * [по заданию 10](/системы_счисления.pdf)
+  * [по заданиям 12-14](/памятка_121314.pdf)
+  * дополнительная [по заданию 13](/памятка_13.pdf)
