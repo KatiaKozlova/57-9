@@ -53,8 +53,8 @@
 | _13.03.24_ | [вариант](/вариант_4.pdf)<br>[матриалы](https://drive.google.com/drive/folders/1ZrXsvTZeRlvLgiEl-GHVu449Ak4muITd) |  | **информатика** (огэ) |  |
 | _27.03.24_ | [материалы](https://education.yandex.ru/handbook/algorithms/article/vychislenie-nok-i-nod)<br>[задачи](https://new.contest.yandex.ru/47560) |  | **алгоритмы и структуры данных** (введение) | нод и нок |
 | _05.04.24_ | [проект](https://colab.research.google.com/drive/1ZJ1cbwr65PNffR3vZV4LP0SD47pIyK3o?usp=sharing) |  | **программирование** | анализ тональности |
-| _24.04.24_ | [вариант](/вариант_14.pdf)<br>[матриалы](https://drive.google.com/drive/folders/14uHgCzqhfy7L8Qq6aA4-1QYcjSNdK6CG?usp=sharing) |  | **информатика** (огэ) | эксель |
-| _27.04.24_ | [вариант](/вариант_6.pdf)<br>[матриалы](https://drive.google.com/drive/folders/1CRcJoIYQtv1vgacQ_afVrD_m71bDVeu5?usp=drive_link) |  | **информатика** (огэ) | тест |
+| _24.04.24_ | [таблички](/вариант_14.pdf)<br>[матриалы](https://drive.google.com/drive/folders/14uHgCzqhfy7L8Qq6aA4-1QYcjSNdK6CG?usp=sharing) |  | **информатика** (огэ) | эксель |
+| _27.04.24_ | [вариант](/вариант_6.pdf)<br>[матриалы](https://drive.google.com/drive/folders/1CRcJoIYQtv1vgacQ_afVrD_m71bDVeu5?usp=drive_link)<br>[тексты](/тексты.pdf) |  | **информатика** (огэ) | тест и тексты |
 | _27.04.24_ | [материалы](https://education.yandex.ru/handbook/algorithms/article/zadacha-razmen)<br>[задачи](https://new.contest.yandex.ru/48625) |  | **алгоритмы и структуры данных** (введение) | задача «размен» |
 <!---
 | _07.11.22_ | [тетрадка](https://colab.research.google.com/drive/17vRgsEZjBd4vNdf1QBKqfzgWKR-peKI_?usp=sharing) |  | кортежи: `tuple()`<br>множества: `set()`, `frozenset()` |
