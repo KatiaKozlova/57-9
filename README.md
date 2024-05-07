@@ -46,17 +46,20 @@
 | _07.02.24_ | [материалы](https://education.yandex.ru/handbook/algorithms/article/zadacha-maksimalnoe-proizvedenie)<br>задачи:<br>[1](https://new.contest.yandex.ru/42492), [2](https://new.contest.yandex.ru/42734) |  | **алгоритмы и структуры данных** (введение) | решение практических задач по программированию |
 | _10.02.24_ | [материалы](https://colab.research.google.com/drive/1GdFu6CV_f2qYCwnSCrGXz94fmzbE-YyV?usp=sharing)<br>задачи:<br>[pdf](/beautiful_soup.pdf), [notion](https://what-katie-did.notion.site/beautiful-soup-07030c0d6ca34840bea2a7314bc2893b) |  | **программирование** | beautiful soup |
 | _14.02.24_ | [материалы](https://colab.research.google.com/drive/1GdFu6CV_f2qYCwnSCrGXz94fmzbE-YyV?usp=sharing)<br>задачи:<br>[pdf](/beautiful_soup.pdf), [notion](https://what-katie-did.notion.site/beautiful-soup-07030c0d6ca34840bea2a7314bc2893b) |  | **программирование** | beautiful soup |
-| _17.02.24_ | [вариант](/вариант_3.pdf)<br>[матриалы](https://drive.google.com/drive/folders/1ZrXsvTZeRlvLgiEl-GHVu449Ak4muITd) |  | **информатика** (огэ) |  |
+| _17.02.24_ | [вариант](/вариант_3.pdf)<br>[материалы](https://drive.google.com/drive/folders/1ZrXsvTZeRlvLgiEl-GHVu449Ak4muITd) |  | **информатика** (огэ) |  |
 | _21.02.24_ | [материалы](https://education.yandex.ru/handbook/algorithms/article/zadachi-o-chislah-fibonachchi)<br>[задачи](https://new.contest.yandex.ru/47496) |  | **алгоритмы и структуры данных** (введение) | числа фибоначчи |
 | _01.03.24_ | [материалы](https://colab.research.google.com/drive/13gelSvdfhm8If1_V8J5WLYWWL698azHk?usp=sharing)<br>[задачи](https://new.contest.yandex.ru/41250) |  | **программирование** | бибилиотека `requests` |
 | _02.03.24_ | проекты:<br>[pdf](/home_project/), [notion](https://what-katie-did.notion.site/02-03-14-03-dc02e67df80a443bad3b03edff2ed30d?pvs=4) |  |  | крулинг сайта с отзывами |
-| _13.03.24_ | [вариант](/вариант_4.pdf)<br>[матриалы](https://drive.google.com/drive/folders/1ZrXsvTZeRlvLgiEl-GHVu449Ak4muITd) |  | **информатика** (огэ) |  |
+| _13.03.24_ | [вариант](/вариант_4.pdf)<br>[материалы](https://drive.google.com/drive/folders/1ZrXsvTZeRlvLgiEl-GHVu449Ak4muITd) |  | **информатика** (огэ) |  |
 | _27.03.24_ | [материалы](https://education.yandex.ru/handbook/algorithms/article/vychislenie-nok-i-nod)<br>[задачи](https://new.contest.yandex.ru/47560) |  | **алгоритмы и структуры данных** (введение) | нод и нок |
 | _05.04.24_ | [проект](https://colab.research.google.com/drive/1ZJ1cbwr65PNffR3vZV4LP0SD47pIyK3o?usp=sharing) |  | **программирование** | анализ тональности |
-| _24.04.24_ | [таблички](/вариант_14.pdf)<br>[матриалы](https://drive.google.com/drive/folders/14uHgCzqhfy7L8Qq6aA4-1QYcjSNdK6CG?usp=sharing) |  | **информатика** (огэ) | эксель |
-| _27.04.24_ | [вариант](/вариант_6.pdf)<br>[матриалы](https://drive.google.com/drive/folders/1CRcJoIYQtv1vgacQ_afVrD_m71bDVeu5?usp=drive_link)<br>[тексты](/тексты.pdf) |  | **информатика** (огэ) | тест и тексты |
+| _24.04.24_ | [таблички](/вариант_14.pdf)<br>[материалы](https://drive.google.com/drive/folders/14uHgCzqhfy7L8Qq6aA4-1QYcjSNdK6CG?usp=sharing) |  | **информатика** (огэ) | эксель |
+| _27.04.24_ | [вариант](/вариант_6.pdf)<br>[материалы](https://drive.google.com/drive/folders/1CRcJoIYQtv1vgacQ_afVrD_m71bDVeu5?usp=drive_link)<br>[тексты](/тексты.pdf) |  | **информатика** (огэ) | тест и тексты |
 | _27.04.24_ | [материалы](https://education.yandex.ru/handbook/algorithms/article/zadacha-razmen)<br>[задачи](https://new.contest.yandex.ru/48625) |  | **алгоритмы и структуры данных** (введение) | задача «размен» |
+| _03.05.24_ | [тексты](/тексты.pdf) |  | **информатика** (огэ) | тексты (13.2) |
+| _08.05.24_ | [вариант](/вариант_7.pdf)<br>[материалы](https://drive.google.com/drive/folders/1kT80fBClaIQxuHuYtGEg4tpSAGKQZi2k?usp=drive_link) |  | **информатика** (огэ) | тест |
 <!---
+
 | _07.11.22_ | [тетрадка](https://colab.research.google.com/drive/17vRgsEZjBd4vNdf1QBKqfzgWKR-peKI_?usp=sharing) |  | кортежи: `tuple()`<br>множества: `set()`, `frozenset()` |
 | _11.11.22_ | [задачи](/работа_на_уроке_(11.11).pdf) |  |  |
 | _12.11.22_ | [задачи](/работа_на_уроке_(12.11).pdf) |  |  |
