@@ -58,8 +58,8 @@
 | _27.04.24_ | [материалы](https://education.yandex.ru/handbook/algorithms/article/zadacha-razmen)<br>[задачи](https://new.contest.yandex.ru/48625) |  | **алгоритмы и структуры данных** (введение) | задача «размен» |
 | _03.05.24_ | [тексты](/тексты.pdf) |  | **информатика** (огэ) | тексты (13.2) |
 | _08.05.24_ | [вариант](/вариант_7.pdf)<br>[материалы](https://drive.google.com/drive/folders/1kT80fBClaIQxuHuYtGEg4tpSAGKQZi2k?usp=drive_link) |  | **информатика** (огэ) | тест |
+| _15.05.24_ | [вариант](/вариант_8.pdf)<br>[материалы](https://drive.google.com/drive/folders/12r2_bJBQcOfgr011xghowbHiXt8cJsXK?usp=drive_link) |  | **информатика** (огэ) | тест |
 <!---
-
 | _07.11.22_ | [тетрадка](https://colab.research.google.com/drive/17vRgsEZjBd4vNdf1QBKqfzgWKR-peKI_?usp=sharing) |  | кортежи: `tuple()`<br>множества: `set()`, `frozenset()` |
 | _11.11.22_ | [задачи](/работа_на_уроке_(11.11).pdf) |  |  |
 | _12.11.22_ | [задачи](/работа_на_уроке_(12.11).pdf) |  |  |
