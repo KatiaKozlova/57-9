@@ -4,6 +4,8 @@
 
 ### Тренировочные варианты ОГЭ
 1. Вариант №1: [задание](/вариант_1_доп.pdf); [материалы](https://drive.google.com/drive/folders/1QZGt7kghcW5TIw03pUekdkw8RSOKH3ch?usp=drive_link)
+2. Вариант №2: [задание](/вариант_2_доп.pdf); [материалы](https://drive.google.com/drive/folders/1q99MHf-spA5vFsdch74_VDn7EKdkY8PX?usp=drive_link)
+
 
 ### Уроки
 | **Число**  | **Материалы** | **Запись урока** | **Предмет** | **Темы урока** |
